@@ -15,7 +15,7 @@
 # else:
 #     print("yep, that's him")
 
-
+# this code is straigh forward
 j = 4
 
 while j < 10:
@@ -23,6 +23,8 @@ while j < 10:
     if j != 2:
         break
     j +=2
+
+    
 
 
 
